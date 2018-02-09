@@ -1,3 +1,7 @@
 public String MyName(){
-	return "Name";
+	return "Kunkka";
+}
+
+public IntMyAge(){
+	return 125;
 }
