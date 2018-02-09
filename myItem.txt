@@ -3,6 +3,10 @@ public String MyName(){
 	//abnormal use of Git
 }
 
-public IntMyAge(){
+public Int MyAge(){
 	return 2215;
+}
+
+void WebHook(){
+	Test();
 }
